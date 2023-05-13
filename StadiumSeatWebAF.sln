@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StadiumSeatWebAF", "StadiumSeatWebAF\StadiumSeatWebAF.vbproj", "{9D128071-0097-40D6-8F36-BC501CC00304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D128071-0097-40D6-8F36-BC501CC00304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D128071-0097-40D6-8F36-BC501CC00304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D128071-0097-40D6-8F36-BC501CC00304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D128071-0097-40D6-8F36-BC501CC00304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86A71EAC-7EC1-40FF-9EC5-E58BFD878C0F}
+	EndGlobalSection
+EndGlobal
